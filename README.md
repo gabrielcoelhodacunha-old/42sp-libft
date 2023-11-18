@@ -5,6 +5,9 @@
 [ft_printf]: https://github.com/gccunha015/42-ft_printf
 
 # Libft
+
+# This repository is ARCHIVED
+
 ## About
 This project is a library of functions built using [C] programing language to be used in future projects of [42SP].
 
